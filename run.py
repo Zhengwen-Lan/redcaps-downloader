@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # 获取所有.json文件的路径
-annotation_dir = 'dataset/redcaps_v1.0_annotations/annotations'
+annotation_dir = '/content/data/annotations'
 json_files = [f for f in os.listdir(annotation_dir) if f.endswith('.json')]
 print(json_files)
 print(len(json_files))
@@ -18,7 +18,7 @@ json_files = sorted_json_list
 print(json_files)
 print(len(json_files))
 # 设置图像保存路径
-image_save_path = 'path/to/redcaps'
+image_save_path = '/content/drive/MyDrive/redcaps_260'
 
 # 如果目录不存在，则创建
 if not os.path.exists(image_save_path):
