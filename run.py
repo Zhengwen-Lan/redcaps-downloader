@@ -29,7 +29,7 @@ for json_file in json_files:
     print("cur file",json_file)
     print("number ",num)
     num = num+1
-    cmd = f"redcaps download-imgs -a {os.path.join(annotation_dir, json_file)} --save-to {image_save_path} --resize 256 -j 64"
+    cmd = f"redcaps download-imgs -a {os.path.join(annotation_dir, json_file)} --save-to {image_save_path} --resize 256 -j 280"
     subprocess.run(cmd, shell=True)
 
 # 如果你不想调整图像大小，可以将--resize 512更改为--resize -1
