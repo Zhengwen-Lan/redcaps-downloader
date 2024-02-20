@@ -192,7 +192,7 @@ def _image_worker(args):
     # Sleep for 2 seconds for Imgur, and 0.1 seconds for Reddit and Flickr.
     # This takes care of all request rate limits.
     if "imgur" in image_url:
-        time.sleep(0.2)
+        time.sleep(2.0)
     else:
         time.sleep(0.1)
 
