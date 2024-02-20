@@ -21,6 +21,7 @@ def get_version(rel_path: str):
 
 setup(
     name="redcaps",
+    py_modules=['redcaps'],
     version=get_version("redcaps/__init__.py"),
     author="Karan Desai",
     python_requires=">=3.6",
