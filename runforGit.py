@@ -6,6 +6,7 @@ parser = argparse.ArgumentParser(description="Download images from Google Drive"
 parser.add_argument("--start", action="store", help="start id'")
 parser.add_argument("--end", action="store", help="end id'")
 parser.add_argument("--processNum", action="store", help="processNum")
+parser.add_argument("--output", action="store",default='data/image', help="processNum")
 args = parser.parse_args()
 # 获取所有.json文件的路径
 annotation_dir = 'data/annotations'
@@ -26,7 +27,7 @@ json_files = sorted_json_list[start:end]
 print(json_files)
 print(len(json_files))
 # 设置图像保存路径
-image_save_path = 'data/image'
+image_save_path = args.output
 
 # 如果目录不存在，则创建
 if not os.path.exists(image_save_path):
