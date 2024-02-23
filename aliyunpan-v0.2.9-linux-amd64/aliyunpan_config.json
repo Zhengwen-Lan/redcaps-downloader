@@ -1,0 +1,120 @@
+{
+ "configVer": "1.0",
+ "activeUID": "3570eb48cf72453c9b2ead0513d8e4cd",
+ "userList": [
+  {
+   "userId": "3570eb48cf72453c9b2ead0513d8e4cd",
+   "nickname": "liuguang-",
+   "accountName": "180***560",
+   "workdir": "/",
+   "workdirFileEntity": {
+    "driveId": "",
+    "domainId": "",
+    "fileId": "root",
+    "fileName": "/",
+    "fileSize": 0,
+    "fileType": "folder",
+    "createdAt": "",
+    "updatedAt": "",
+    "fileExtension": "",
+    "uploadId": "",
+    "parentFileId": "",
+    "crc64Hash": "",
+    "contentHash": "",
+    "contentHashName": "",
+    "path": "/",
+    "category": "",
+    "syncFlag": false,
+    "syncMeta": ""
+   },
+   "resourceWorkdir": "",
+   "resourceWorkdirFileEntity": {
+    "driveId": "",
+    "domainId": "",
+    "fileId": "",
+    "fileName": "",
+    "fileSize": 0,
+    "fileType": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "fileExtension": "",
+    "uploadId": "",
+    "parentFileId": "",
+    "crc64Hash": "",
+    "contentHash": "",
+    "contentHashName": "",
+    "path": "",
+    "category": "",
+    "syncFlag": false,
+    "syncMeta": ""
+   },
+   "albumWorkdir": "",
+   "albumWorkdirFileEntity": {
+    "driveId": "",
+    "domainId": "",
+    "fileId": "",
+    "fileName": "",
+    "fileSize": 0,
+    "fileType": "",
+    "createdAt": "",
+    "updatedAt": "",
+    "fileExtension": "",
+    "uploadId": "",
+    "parentFileId": "",
+    "crc64Hash": "",
+    "contentHash": "",
+    "contentHashName": "",
+    "path": "",
+    "category": "",
+    "syncFlag": false,
+    "syncMeta": ""
+   },
+   "activeDriveId": "903556290",
+   "driveList": [
+    {
+     "driveId": "903556290",
+     "driveName": "备份盘",
+     "driveTag": "File"
+    },
+    {
+     "driveId": "338097972",
+     "driveName": "资源库",
+     "driveTag": "Resource"
+    },
+    {
+     "driveId": "207556290",
+     "driveName": "相册",
+     "driveTag": "Album"
+    }
+   ],
+   "refreshToken": "a3fd6405bfd44ced91431bd4e92a94a6",
+   "webToken": {
+    "accessTokenType": "Bearer",
+    "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiIzNTcwZWI0OGNmNzI0NTNjOWIyZWFkMDUxM2Q4ZTRjZCIsImN1c3RvbUpzb24iOiJ7XCJjbGllbnRJZFwiOlwiMjVkelgzdmJZcWt0Vnh5WFwiLFwiZG9tYWluSWRcIjpcImJqMjlcIixcInNjb3BlXCI6W1wiRFJJVkUuQUxMXCIsXCJTSEFSRS5BTExcIixcIkZJTEUuQUxMXCIsXCJVU0VSLkFMTFwiLFwiVklFVy5BTExcIixcIlNUT1JBR0UuQUxMXCIsXCJTVE9SQUdFRklMRS5MSVNUXCIsXCJCQVRDSFwiLFwiT0FVVEguQUxMXCIsXCJJTUFHRS5BTExcIixcIklOVklURS5BTExcIixcIkFDQ09VTlQuQUxMXCIsXCJTWU5DTUFQUElORy5MSVNUXCIsXCJTWU5DTUFQUElORy5ERUxFVEVcIl0sXCJyb2xlXCI6XCJ1c2VyXCIsXCJyZWZcIjpcImh0dHBzOi8vd3d3LmFsaXl1bmRyaXZlLmNvbS9cIixcImRldmljZV9pZFwiOlwiYTNmZDY0MDViZmQ0NGNlZDkxNDMxYmQ0ZTkyYTk0YTZcIn0iLCJleHAiOjE3MDg2NzQxNTMsImlhdCI6MTcwODY2Njg5M30.EOcaU6llKN6BhUcR2BRUdq7nHdYN9lhq8wJWjq1BdlJBeR40mpRwo6J88qGErQ5sq9jwHwaItoLSkXqDqSvgT6aAqHVmOe-NzRB9JFhV-gkyIf9xfUIjn-8h-M3m5fIqKYtaTGBd6nYAsNd3lFCHJBWk8GLW33Y4IxTmK2DC3AU",
+    "refreshToken": "a3fd6405bfd44ced91431bd4e92a94a6",
+    "expiresIn": 7200,
+    "expireTime": "2024-02-23 07:42:33"
+   },
+   "tokenId": ""
+  }
+ ],
+ "cacheSize": 0,
+ "maxDownloadParallel": 0,
+ "maxUploadParallel": 0,
+ "maxDownloadRate": 0,
+ "maxUploadRate": 0,
+ "transferUrlType": 0,
+ "saveDir": "/home/codespace/Downloads",
+ "proxy": "",
+ "localAddrs": "",
+ "preferIPType": "ipv4",
+ "updateCheckInfo": {
+  "preferUpdateSrv": "",
+  "latestVer": "v0.2.9",
+  "checkTime": 1708666832
+ },
+ "videoFileExtensions": "mp4,flv,mkv,mov,rm,rmvb,wmv,wma,mv,asf,asx,mpg,mpeg,mpe,3gp,m4v,avi,vob",
+ "fileRecordConfig": "1",
+ "deviceId": "V2J1nTtvS1jAXcS1lH9nOK5f",
+ "deviceName": "Chrome浏览器"
+}
