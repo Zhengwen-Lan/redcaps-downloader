@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: redcaps
+Version: 1.0
+Author: Karan Desai
+License: MIT
+Requires-Python: >=3.6
+License-File: LICENSE
